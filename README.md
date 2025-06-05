@@ -2,7 +2,7 @@
 
 Клонируйте репозиторий на сервер или локально:
 
-git clone https://github.com/ваш_логин/имя_репозитория.git
+git clone https://github.com/qwerty152/TGBOT.git
 
 cd имя_репозитория
 
